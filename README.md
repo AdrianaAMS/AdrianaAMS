@@ -13,9 +13,11 @@
   <img align="center" alt="Dri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
- 
+![ texto](https://octocat-generator-assets.githubusercontent.com/my-octocat-1635883883080.png)   
+  
 <div> 
   <a href="https://www.instagram.com/design_objetivo_sp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/adrianaalvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+ 

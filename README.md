@@ -14,7 +14,8 @@
 </div>
   
 
-  <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635883883080.png" width="400">
+  <img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635883883080.png" width="400">
+  
   
 <div> 
   <a href="https://www.instagram.com/design_objetivo_sp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

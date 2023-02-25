@@ -1,4 +1,4 @@
-## Olá eu sou a Adriana Alves, designer e Analista de Testes - QA!
+## Olá eu sou a Adriana Souza, designer e Analista de Qualidade - QA!
 <div align="center">
   <a href="https://github.com/AdrianaAMS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianaAMS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

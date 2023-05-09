@@ -16,13 +16,9 @@
 
 </div>
   
-
-  <img align="center" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1635883883080.png" width="400">
-  
-  
 <div> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/AdrianaAMS=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://www.instagram.com/design_objetivo_sp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   

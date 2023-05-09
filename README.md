@@ -1,4 +1,5 @@
 ## Olá eu sou a Adriana Souza, designer e Analista de Qualidade - QA!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AdrianaAMS=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <a href="https://github.com/AdrianaAMS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianaAMS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
